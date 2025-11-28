@@ -6,6 +6,6 @@ try:
     elif edad >= 18:
         print("Eres mayor de edad.")
     else:
-        print("Eres menor de edad_cambios.")
+        print("Eres menor de edad_cambioset5we.")
 except ValueError:
     print("Entrada no válida: introduce un número entero para la edad.")
