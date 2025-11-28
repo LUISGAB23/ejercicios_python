@@ -8,4 +8,4 @@ try:
     else:
         print("Eres menor de edad.")
 except ValueError:
-    print("Entrada no válida: introduce un número entero qw2.")
+    print("Entrada no válida: introduce un número entero 12.")
