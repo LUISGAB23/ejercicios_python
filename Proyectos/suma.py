@@ -3,7 +3,7 @@ num1_str = input("Introduce el primer número entero: ")
 num1 = int(num1_str)
 
 # 2. Pide al usuario el segundo número entero
-num2_str = input("Introduce el segundo número entero_Ñlk: ")
+num2_str = input("Introduce el segundo número entero: ")
 num2 = int(num2_str)
 
 # 3. Suma los dos números
