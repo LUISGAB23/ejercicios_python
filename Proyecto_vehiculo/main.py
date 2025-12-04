@@ -12,6 +12,6 @@
     
     
 lista = [4, "Hola", 5, 7, 2, 4]
-# print(len(lista))
-print (lista[1])    
+print(len(lista))
+# print (lista[1])    
     
